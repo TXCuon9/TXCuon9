@@ -23,13 +23,7 @@
 - DB: PostgreSQL, MySQL
 - Tools: Git, Docker
 
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
-
----
 
 ## 📫 Contact
-- Email: ...
+- Email: xcuongai512@gmail.com
 - LinkedIn: ...
