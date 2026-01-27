@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Xuan Cuong
 
-<!--
-**TXCuon9/TXCuon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI Engineer | Full-stack Developer  
+💡 Focus: AI for Education & Business Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Urban Data Platform – Luminous Mind**  
+  AI platform for smart urban & education management  
+  🔗 Repo | 🔗 Demo
+
+- **Student Behavior Prediction System**  
+  Machine Learning + Dashboard
+
+---
+
+## 🧠 Tech Stack
+- Languages: Python, Java, JavaScript
+- Backend: Spring Boot, FastAPI
+- Frontend: React, Tailwind
+- AI/DS: Pandas, Scikit-learn, TensorFlow
+- DB: PostgreSQL, MySQL
+- Tools: Git, Docker
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
+
+---
+
+## 📫 Contact
+- Email: ...
+- LinkedIn: ...
