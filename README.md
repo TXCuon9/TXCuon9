@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Xuan Cuong
 
 🎯 Full-stack Developer | AI Engineer
+
 💡 Focus: AI for Education & Business Automation
 
 ---
