@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xuan Cuong
 
-🎯 AI Engineer | Full-stack Developer  
+🎯 Full-stack Developer | AI Engineer
 💡 Focus: AI for Education & Business Automation
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🧠 Tech Stack
 - Languages: Python, Java, JavaScript
-- Backend: Spring Boot, FastAPI
+- Backend: Node.js, FastAPI
 - Frontend: React, Tailwind
 - AI/DS: Pandas, Scikit-learn, TensorFlow
 - DB: PostgreSQL, MySQL
@@ -26,4 +26,3 @@
 
 ## 📫 Contact
 - Email: xcuongai512@gmail.com
-- LinkedIn: ...
